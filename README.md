@@ -15,7 +15,7 @@ En las instalaciones de la Facultad de Ingenieria de la Pontificia Universidad J
 Autor: Brayan Steven Carrillo Mora
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/73810142?v=4">
+  <img src="https://avatars.githubusercontent.com/u/68749776?s=400&u=985d505e9c62f2f7fa7d08a46e406a451995b5a4&v=4">
 </p>
 
 Bajo la asesoria del Ingeniero PhD. Jhon Jairo Corredor Franco: 
@@ -37,4 +37,4 @@ Por ultimo, se utilizo la API propuesta por la plataforma OpenWeather para obten
 
 * https://openweathermap.org/
 
-Cabe resaltar que este proyecto se realizo con fines puramente academicos, por lo cual, nos reservamos cualquier opinión acerca del uso de la tecnica WebScrapping o cualquier llave para consulta a APIs las cuales pueden estar inhabilitadas al momento de consulta, adicionalmente la información contenida dentro de este repositorio, puede encontrarse desactualizada al momento de consulta.
+Es importante resaltar que este proyecto se realizo con fines puramente academicos, por lo cual nos reservamos cualquier opinión acerca del uso de la técnicas WebScrapping o cualquier llave para consulta a APIs las cuales pueden estar inhabilitadas al momento de consulta, adicionalmente la información contenida dentro de este repositorio, puede encontrarse desactualizada al momento de consulta.
